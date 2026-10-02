@@ -1,4 +1,4 @@
-# 26. DevOps Concepts ⭐⭐⭐⭐⭐
+#  DevOps Concepts 
 
 ## Introduction
 
